@@ -1,0 +1,2 @@
+com/exactaworks/githubpackageregistryexample/ListUtils.java
+ com.exactaworks.githubpackageregistryexample.ListUtils

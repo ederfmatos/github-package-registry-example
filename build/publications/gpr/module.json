@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.exactaworks",
+    "module": "github-package-registry-example",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "evthgechurdwnfc6pqzcds42rq"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "github-package-registry-example-1.0.jar",
+          "url": "github-package-registry-example-1.0.jar",
+          "size": 1247,
+          "sha512": "1868fc35dee0004c0328497a15216837c4d27bd988f916a5e2c73f2a730302768665351c202b7dfc0fac9f53e85eb5c1d4bdd64ba9682ff896211d560f584dcb",
+          "sha256": "4eb71914d7e85b0f37927a90db3529041fe17e0f9b298782e3c3d579daa1c54a",
+          "sha1": "3dcaf132a1814052afd9f064c3e3839ba0b9da75",
+          "md5": "4a7088f42b8a3177978a43b4b97b8eaf"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "github-package-registry-example-1.0.jar",
+          "url": "github-package-registry-example-1.0.jar",
+          "size": 1247,
+          "sha512": "1868fc35dee0004c0328497a15216837c4d27bd988f916a5e2c73f2a730302768665351c202b7dfc0fac9f53e85eb5c1d4bdd64ba9682ff896211d560f584dcb",
+          "sha256": "4eb71914d7e85b0f37927a90db3529041fe17e0f9b298782e3c3d579daa1c54a",
+          "sha1": "3dcaf132a1814052afd9f064c3e3839ba0b9da75",
+          "md5": "4a7088f42b8a3177978a43b4b97b8eaf"
+        }
+      ]
+    }
+  ]
+}
