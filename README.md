@@ -3,7 +3,7 @@
 Esse repositório é utilizado como exemplo para publicar pacotes com Github Package Registry
 
 ### Artigo
-Para acessar o artigo explicando como realizar a publicasão de pacotes com Github Packages Registry, [clique aqui](https://github.com/ederfmatos/github-package-registry-example)
+Para acessar o artigo explicando como realizar a publicação de pacotes com Github Packages Registry, [clique aqui](https://github.com/ederfmatos/github-package-registry-example)
 <br>
 <br>
 
